@@ -35,6 +35,13 @@ function AllMovies() {
         year: 2007,
         rating: 6.7,
         genres: ["Action", "Comedy", "Drama", "Fantasy"]
+      },
+      {
+        id: 3,
+        title: "Tere Naam",
+        year: 2003,
+        rating: 5,
+        genres: ["Action", "Comedy", "Drama"]
       }
     ];
 
