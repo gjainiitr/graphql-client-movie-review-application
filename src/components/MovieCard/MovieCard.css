@@ -1,0 +1,25 @@
+.card {
+    background-color: lightblue;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    border-radius: 8px;
+    border-color: black;
+    overflow: hidden;
+}
+
+.card-content {
+    padding: 16px;
+}
+
+.movie-title {
+    margin: 0;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.movie-year {
+    margin: 0;
+    font-size: 18px;
+    color: #757575;
+}
